@@ -20,4 +20,4 @@ From a GitHub repo:
 
 From a compressed file:
 
-`python3 -m pip install package.tar.gz
+`python3 -m pip install package.tar.gz`
