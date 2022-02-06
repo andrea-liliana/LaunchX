@@ -1,6 +1,9 @@
 To create virtual environment        python -m venv env
+
 To activate VE                       env\Scripts\activate.bat 
+
 To deactivate VE                     deactivate 
+
 To see packages installed in a VE    pip freeze 
 
 
