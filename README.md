@@ -24,7 +24,7 @@ Propiedades, métodos, operaciones y formato de cadenas.
 
 ## Módulo 5 - Usar operaciones matemáticas
 
-Operadores matemáticos, orden de las operaciones y conversión de números.
+Operadores matemáticos, orden de las operaciones, conversión de números y biblioteca Math.
 
 
 
