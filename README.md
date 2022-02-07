@@ -26,5 +26,9 @@ Propiedades, métodos, operaciones y formato de cadenas.
 
 Operadores matemáticos, orden de las operaciones, conversión de números y biblioteca Math.
 
+## Módulo 7 - Introducción a las listas
+
+Listas y algunos de sus métodos más usados. 
+
 
 
