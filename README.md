@@ -22,7 +22,9 @@ Declaraciones con `if, else, elif`; uso de los operadores `and` y `or`.
 
 Propiedades, métodos, operaciones y formato de cadenas.
 
+## Módulo 5 - Usar operaciones matemáticas
 
+Operadores matemáticos, orden de las operaciones y conversión de números.
 
 
 
