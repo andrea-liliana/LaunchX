@@ -18,6 +18,11 @@ Uso y creación de entornos virtuales desde la terminal.
 
 Declaraciones con `if, else, elif`; uso de los operadores `and` y `or`.
 
+## Módulo 4 - Cadenas
+
+Propiedades, métodos, operaciones y formato de cadenas.
+
+
 
 
 
