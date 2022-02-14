@@ -14,4 +14,4 @@ Este repositorio contiene la resolución de los ejercicios correspondientes a la
 - **Módulo 9 - Funciones:** Aspectos básicos de las funciones, uso de argumentos opcionales y requeridos, así como uso de argumentos de palabta clave.
 - **Módulo 10 - Manejo de errores:** Uso de la salida de errores de excepciones, genración de excepciones con mensajes de error útiles y uso de excepciones para controlar el flujo de un programa.
 
-###### Fuente: [Curso de Introducción](https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython)
+###### Fuente: [Curso de Introducción a python](https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython)
