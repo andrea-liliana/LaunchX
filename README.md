@@ -11,7 +11,7 @@ Este repositorio contiene la resolución de los ejercicios correspondientes a la
 - **Módulo 6 - Introducción a las listas:** Listas y algunos de sus métodos más usados. 
 - **Módulo 7 - Estructutas de control:** Uso de ciclos `while`y `for`.
 - **Módulo 8 - Administrar datos con diccionarios:** Creación y modificación de datos dentro de un diccionario y uso de sus diferentes métodos.
-- **Módulo 9 - Funciones:** Aspectos básicos de las funciones, uso de argumentos opcionales y requeridos, así como uso de argumentos de palabta clave.
+- **Módulo 9 - Funciones:** Aspectos básicos de las funciones, uso de argumentos opcionales y requeridos, así como uso de argumentos de palabra clave.
 - **Módulo 10 - Manejo de errores:** Uso de la salida de errores de excepciones, genración de excepciones con mensajes de error útiles y uso de excepciones para controlar el flujo de un programa.
 
 ###### Fuente: [Curso de Introducción a python](https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython)
