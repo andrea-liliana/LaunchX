@@ -1,6 +1,6 @@
 # LaunchX
  
-Este repositorio contiene la resolución de los ejercicios correspondientes a la primera misión (Onboarding) del programa LauchX - Formación de Developers. Los temas vistos por módulo son los siguientes:
+Este repositorio contiene la resolución de los ejercicios correspondientes a la primera misión (Onboarding) del programa LauchX - Formación de Developers de Launch X de Innovacción Virtual - Microsoft. Los temas vistos por módulo son los siguientes:
 
 - **Módulo 0 - Preparación del entorno de trabajo:** Uso de cuadernos de Jupyter. 
 - **Módulo 1 - Primeros Pasos:** Entrada y salida de programas con python, tipos de datos y operadores.
